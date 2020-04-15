@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/techfriends/static/css/main.b6b69c0c.chunk.css",
+    "main.js": "/techfriends/static/js/main.a97139ed.chunk.js",
+    "main.js.map": "/techfriends/static/js/main.a97139ed.chunk.js.map",
+    "runtime-main.js": "/techfriends/static/js/runtime-main.0a30dc7a.js",
+    "runtime-main.js.map": "/techfriends/static/js/runtime-main.0a30dc7a.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/techfriends/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js": "/techfriends/static/js/2.2f7a48c9.chunk.js",
+    "static/js/2.2f7a48c9.chunk.js.map": "/techfriends/static/js/2.2f7a48c9.chunk.js.map",
+    "index.html": "/techfriends/index.html",
+    "precache-manifest.d62b3948c22a82ab81fd33238e0c5b86.js": "/techfriends/precache-manifest.d62b3948c22a82ab81fd33238e0c5b86.js",
+    "service-worker.js": "/techfriends/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/techfriends/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.b6b69c0c.chunk.css.map": "/techfriends/static/css/main.b6b69c0c.chunk.css.map",
+    "static/js/2.2f7a48c9.chunk.js.LICENSE.txt": "/techfriends/static/js/2.2f7a48c9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/techfriends/static/media/KMKDSPKW.abc0738e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a30dc7a.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.2f7a48c9.chunk.js",
+    "static/css/main.b6b69c0c.chunk.css",
+    "static/js/main.a97139ed.chunk.js"
+  ]
+}
